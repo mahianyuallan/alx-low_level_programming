@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - display  "Programming is like building a multilingual puzzle"
+ * main - Entry point
  * Return: 0 and exit the program
  */
 int main(void)
