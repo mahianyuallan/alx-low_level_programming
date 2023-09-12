@@ -6,14 +6,15 @@
  */
 int main(void)
 {
-	char message[] = "_putchar\n";
-	int i;
+	char c[8] = "_putchar";
 
-	for (i = 0; message[i] != '\0'; i++)
+	int i = 0;
+
+	while (i < 8)
 	{
-		/* Use the _putchar function to print each character */
-		_putchar(message[i]);
+		_putchar(c[i]);
+		i++;
 	}
-
+	_putchar('\n');
 	return (0);
 }
