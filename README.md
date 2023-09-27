@@ -18,7 +18,7 @@ C programming is an excellent language to learn to program for beginners.
 ## About
 This repository contains projects on the C programming language. The projects cover:
 
-- Compilation
+- Compilations
 - Commenting code and following a coding style standard
 - Variables, types, operators, expressions, loops, nested loops
 - Conditional statements
