@@ -1,12 +1,12 @@
 #include "main.h"
-#include <stdio.h>
 #include <stdlib.h>
 
 /**
- * main - prints all arguments received.
- * @argc: type int argument
- * @argv: type char argument of string.
- * Return: if not receive 2 arg, rt error
+ * _print - moves a string one place to the left and prints the string
+ * @str: string to move
+ * @l: size of string
+ *
+ * Return: void
  */
 void _print(char *str, int l)
 {
