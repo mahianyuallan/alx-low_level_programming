@@ -1,4 +1,4 @@
-#0x0A. C - argc, argv 🚀
+# 0x0A. C - argc, argv 🚀
 
 This directory contains C programs that demonstrate the usage of `argc` and `argv` in command-line programs.
 
