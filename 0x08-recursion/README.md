@@ -1,29 +1,78 @@
-<<<<<<< HEAD
-Recursions
-=======
- # 0x08-recursion
+# 0x08. C - Recursion 🔁🔀
 
-## Requirements
-- Language: C
-- OS: Ubuntu 14.04 LTS
-- Compiler: gcc 4.8.4
-- Style guidelines: Betty style
+In this directory, you'll find a set of C programs that focus on recursive functions. Each program is designed to showcase different aspects of recursion, from string manipulation to mathematical calculations. Dive into each task to strengthen your understanding of recursion and its applications.
 
-## Concepts to be learned:
-- What is recursion
-- How to implement recursion
-- In what situations you should implement recursion
-- In what situations you shouldn’t implement recursion
 
-## Tasks:
+## Task 0 - Print a String Recursively
 
-- A function that prints a string, followed by a new line (puts)
-- A function that prints a string in reverse
-- A function that returns the length of a string
-- A function that returns the factorial of a given number
-- A function that returns the value of x raised to the power of y (pow)
-- A function that returns the natural square root of a number
-- A function that returns 1 if the input integer is a prime number, otherwise return 0
-- A function that returns 1 if a string is a palindrome and 0 if not
-- A function that compares two strings and returns 1 if the strings can be considered identical, otherwise return 0
->>>>>>> 276b06f6783f882391ba0ec254579affdd7b3f57
+**File:** 0-puts_recursion.c  
+📝 **Description:** Prints a string followed by a new line using recursion.  
+💼 **Prototype:** `void _puts_recursion(char *s);`
+
+---
+
+## Task 1 - Print a String in Reverse
+
+**File:** 1-print_rev_recursion.c  
+📝 **Description:** Prints a string in reverse using recursion.  
+💼 **Prototype:** `void _print_rev_recursion(char *s);`
+
+---
+
+## Task 2 - Calculate String Length
+
+**File:** 2-strlen_recursion.c  
+📝 **Description:** Returns the length of a string using recursion.  
+💼 **Prototype:** `int _strlen_recursion(char *s);`
+
+---
+
+## Task 3 - Calculate Factorial
+
+**File:** 3-factorial.c  
+📝 **Description:** Returns the factorial of a given number using recursion.  
+💼 **Prototype:** `int factorial(int n);`
+
+---
+
+## Task 4 - Calculate Power
+
+**File:** 4-pow_recursion.c  
+📝 **Description:** Returns the value of x raised to the power of y using recursion.  
+💼 **Prototype:** `int _pow_recursion(int x, int y);`
+
+---
+
+## Task 5 - Calculate Square Root
+
+**File:** 5-sqrt_recursion.c  
+📝 **Description:** Returns the natural square root of a number using recursion.  
+💼 **Prototype:** `int _sqrt_recursion(int n);`
+
+---
+
+## Task 6 - Check Prime Number
+
+**File:** 6-is_prime_number.c  
+📝 **Description:** Returns 1 if the input integer is a prime number, otherwise returns 0 using recursion.  
+💼 **Prototype:** `int is_prime_number(int n);`
+
+---
+
+## Task 7 - Check Palindrome
+
+**File:** 100-is_palindrome.c  
+📝 **Description:** Returns 1 if a string is a palindrome and 0 if not using recursion.  
+💼 **Prototype:** `int is_palindrome(char *s);`
+
+---
+
+
+## Task 8 - Compare Strings with Wildcards
+
+**File:** 101-wildcmp.c  
+📝 **Description:** Compares two strings with possible wildcard '*' in the second string. Returns 1 if they are identical, otherwise returns 0 using recursion.  
+💼 **Prototype:** `int wildcmp(char *s1, char *s2);`
+
+
+#### Happy Coding 🚀
