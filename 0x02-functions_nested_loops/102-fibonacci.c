@@ -2,7 +2,7 @@
 /**
  * main - print 50 fibonacci numbers
  *
- * Return: (0)
+ * Return: Always (0)
  */
 int main(void)
 {
