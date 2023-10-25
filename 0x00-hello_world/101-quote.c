@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <unistd.h>
 /**
- * main - A program that displays that 'and that piece of art is useful'
+ * main - A program that shows/displays that 'and that piece of art is useful'
  * Return: Always 0 (Success)
  */
 int main(void)
