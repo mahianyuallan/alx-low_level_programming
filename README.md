@@ -1,3 +1,5 @@
+
+
 # C Low level programming & algorithms
 
 
@@ -18,7 +20,7 @@ C programming is an excellent language to learn to program for beginners.
 ## About
 This repository contains projects on the C programming language. The projects cover:
 
-- Compilations
+- Compilation
 - Commenting code and following a coding style standard
 - Variables, types, operators, expressions, loops, nested loops
 - Conditional statements
@@ -59,7 +61,19 @@ This repository contains projects on the C programming language. The projects co
 - <a href="0x0C-more_malloc_free">0x0C-more_malloc_free</a>
 - <a href="0x0D-preprocessor">0x0D-preprocessor</a>
 - <a href="0x0E-structures_typedef">0x0E-structures_typedef</a>
-
+- <a href="0x0F-function_pointers">0x0F-function_pointers</a>
+- <a href="0x10-variadic_functions">0x10-variadic_functions</a>
+- <a href="0x12-singly_linked_lists">0x12-singly_linked_lists</a>
+- <a href="0x13-more_singly_linked_lists">0x13-more_singly_linked_lists</a>
+- <a href="0x14-bit_manipulation">0x14-bit_manipulation</a>
+- <a href="0x15-file_io">0x15-file_io</a>
+- <a href="0x17-doubly_linked_lists">0x17-doubly_linked_lists</a>
+- <a href="0x18-dynamic_libraries">0x18-dynamic_libraries</a>
+- <a href="0x1A-hash_tables">0x1A-hash_tables</a>
+<a href=""></a>
+<a href=""></a>
+<a href=""></a>
+ 
 # More Resources
 
 - [Pointers and Arrays](./PointerArrays) : Code snippets and notes on Pointers and Arrays from Concept Page.
@@ -71,6 +85,7 @@ This repository contains projects on the C programming language. The projects co
 
 ### support:tada:
 If you like how i present and document my work  do me a favor of giving a **Star** :sparkles: to my repos  |&&| a **Follow**  :busts_in_silhouette:
+
 
 ## Author
 - **Allan Mwenja** - [mwenjaallan18@gmail.com](https://github.com/mahianyuallan) ~ [@allan_mwenja](https://twitter.com/allan_mwenja):Twitter
